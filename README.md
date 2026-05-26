@@ -24,3 +24,7 @@ The terminal confirms that the server is running successfully on port 5000 and u
 
 <img width="914" height="80" alt="Image" src="https://github.com/user-attachments/assets/e220c01b-e0cf-41d8-9cde-97f1709c0391" />
 
+# OUTPUT
+
+<img width="1903" height="891" alt="Image" src="https://github.com/user-attachments/assets/b603df70-671e-47e3-9c8c-88caa559bca8" />
+
