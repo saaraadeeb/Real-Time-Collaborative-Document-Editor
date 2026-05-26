@@ -26,5 +26,7 @@ The terminal confirms that the server is running successfully on port 5000 and u
 
 # OUTPUT
 
+<img width="1919" height="901" alt="Image" src="https://github.com/user-attachments/assets/281a5f52-a601-4209-9d43-870f176ebd88" />
+
 
 
