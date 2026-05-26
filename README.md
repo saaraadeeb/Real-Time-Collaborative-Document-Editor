@@ -22,3 +22,5 @@ This project provided valuable experience in Full Stack Development by integrati
 
 # The terminal confirms that the server is running successfully on port 5000 and users are connected to the application through Socket.io for real-time communication.
 
+<img width="914" height="80" alt="Image" src="https://github.com/user-attachments/assets/e220c01b-e0cf-41d8-9cde-97f1709c0391" />
+
