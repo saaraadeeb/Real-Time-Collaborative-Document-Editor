@@ -20,7 +20,7 @@ During the development process, a React application was created using Create Rea
 The application was tested by opening multiple browser tabs. When text was entered in one tab, the same content appeared instantly in the other tab without refreshing the page. This confirmed that the real-time synchronization feature was functioning correctly. The project successfully demonstrated how multiple users can collaborate on a shared document through a web application.
 This project provided valuable experience in Full Stack Development by integrating frontend technologies, backend services, and real-time communication mechanisms. It improved understanding of React.js components, state management, Node.js server creation, Express.js routing, and Socket.io event handling. The project also highlighted the importance of client-server architecture in modern web applications.
 
-# The terminal confirms that the server is running successfully on port 5000 and users are connected to the application through Socket.io for real-time communication.
+The terminal confirms that the server is running successfully on port 5000 and users are connected to the application through Socket.io for real-time communication.
 
 <img width="914" height="80" alt="Image" src="https://github.com/user-attachments/assets/e220c01b-e0cf-41d8-9cde-97f1709c0391" />
 
